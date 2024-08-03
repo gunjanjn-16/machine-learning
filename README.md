@@ -10,7 +10,7 @@ Evaluation: Evaluated the clustering using inertia and silhouette score.
 Visualization: Visualized the clusters using a scatter plot.
 
 
-#This machine learning project is on hand recognition using development tools anfd frameworks like python,jupyter notebook,tensorflow and keras.
+#This machine learning project is on hand recognition using development tools and frameworks like python,jupyter notebook,tensorflow and keras.
 
 Explanation of the code:
 Data Collection: Use public datasets or create your own.
